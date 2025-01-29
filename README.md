@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name] — A Full-Stack Developer with a Passion for AI
+# 👋 Hi there, I'm Ritu — A Full-Stack Developer with a Passion for AI
 
 Welcome to my GitHub profile! I'm a **Full-Stack Developer** who loves building impactful web applications and exploring the world of **Machine Learning** and **Artificial Intelligence**. 🚀 
 
@@ -47,9 +47,8 @@ When I'm not coding, I'm working on **innovative projects**, solving real-world 
 ---
 
 ## 🌍 Connect with Me:
-- **[LinkedIn](https://www.linkedin.com/in/your-linkedin)** – Let's connect!
-- **[Twitter](https://twitter.com/your-twitter)** – Follow me for tech updates!
-- 📧 **Email**: your.email@example.com
+- **[LinkedIn](www.linkedin.com/in/rituparna-meher-1226a222b)** – Let's connect!
+- 📧 **Email**: your.meherrituparna@gmail.com
 
 ---
 
@@ -57,16 +56,6 @@ When I'm not coding, I'm working on **innovative projects**, solving real-world 
 - **Tech Enthusiast**: Always exploring new tools, frameworks, and languages.
 - **Problem Solver**: I love turning complex problems into simple, efficient solutions.
 - **Lifelong Learner**: My favorite hobby is learning new technologies and methodologies.
-- **Chess Player**: I enjoy the challenge of strategy and tactics both in chess and in coding! ♟️
-
----
-
-## 📂 My Most Popular Repositories:
-- **[Heart Disease Prediction System](https://github.com/yourusername/heart-disease-prediction)**: Predicting heart disease using machine learning with a Django backend.
-- **[Smart Personal Assistant](https://github.com/yourusername/smart-personal-assistant)**: Manage your daily tasks and reminders with this AI-powered assistant.
-- **[Amazon ML Challenge](https://github.com/yourusername/amazon-ml-challenge)**: A project focused on optimizing inventory and predicting demand with machine learning.
-- **[My Portfolio Website](https://github.com/yourusername/my-portfolio)**: A simple and elegant portfolio website built with HTML, CSS, and JavaScript.
-
 ---
 
 ## 📊 GitHub Stats
