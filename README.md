@@ -58,10 +58,5 @@ When I'm not coding, I'm working on **innovative projects**, solving real-world 
 - **Lifelong Learner**: My favorite hobby is learning new technologies and methodologies.
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
 
 Thanks for visiting my profile! 😄 Feel free to check out my repositories and don't hesitate to open an issue or send a pull request. Let's create something awesome together! 💡
