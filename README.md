@@ -48,7 +48,7 @@ When I'm not coding, I'm working on **innovative projects**, solving real-world 
 
 ## 🌍 Connect with Me:
 - **[LinkedIn](www.linkedin.com/in/rituparna-meher-1226a222b)** – Let's connect!
-- 📧 **Email**: your.meherrituparna@gmail.com
+- 📧 **Email**: meherrituparna@gmail.com
 
 ---
 
