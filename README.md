@@ -19,25 +19,7 @@ When I'm not coding, I'm working on **innovative projects**, solving real-world 
 
 ---
 
-## 🚀 Current Projects:
 
-### 1. **Heart Disease Prediction System**
-- **Description**: A web app built with **Django** that predicts whether someone is at risk of heart disease based on medical data, integrated with a **Machine Learning** model.
-- **Tech**: **Python**, **Django**, **Machine Learning (Scikit-learn)**
-
-### 2. **Smart Personal Assistant**
-- **Description**: A feature-rich **AI-powered personal assistant** app, where you can manage tasks, set reminders, and get useful insights into your day.
-- **Tech**: **Python**, **Django**, **JavaScript**, **AI Integration**
-
-### 3. **Amazon ML Challenge**
-- **Description**: A machine learning challenge to predict customer demand and optimize inventory for an e-commerce platform, leveraging **AWS** and **ML** tools.
-- **Tech**: **Python**, **AWS**, **Machine Learning**, **Data Science**
-
-### 4. **My Portfolio Website**
-- **Description**: A simple yet elegant portfolio website built from scratch using **HTML**, **CSS**, and **JavaScript** to showcase my skills, projects, and journey as a developer.
-- **Tech**: **HTML5**, **CSS3**, **JavaScript**
-
----
 
 ## 🌱 What I'm Learning Right Now:
 - **Full-Stack Development**: Advanced Django, React, and CI/CD pipelines.
